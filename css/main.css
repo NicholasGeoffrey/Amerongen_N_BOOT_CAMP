@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+}
+
+.portrait, .logo {
+    height: 150px;
+}
+.teamInfo {
+    display: flex;
+    flex-direction: row;
+}
+.dataDisplay {
+    width: 500px;
+}
