@@ -4,7 +4,7 @@
 
     // this is the array for each members information
     const teamBio = [
-        "This is the info about Nic",
+        "Nicholas Amerongen is a cook renowned for his mastery of preparing eggs and onions. He values having a wide variety of skills and thus has come to the world of design & development to master cooking up code as quality as his breakfast.",
         "This is the info about Irene",
         "This is the info about Emily",
         "This is the info about Jackson"
