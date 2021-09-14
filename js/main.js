@@ -1,4 +1,5 @@
 (() => {
+    //Profile Display START
     let coworkers = document.querySelectorAll(".teamInfo .staffMember"),
         dataDisplay =document.querySelector(".dataDisplay");
 
@@ -17,13 +18,13 @@
     
     let staffPick = this.cloneNode(true);
     let staffInfo = staffPick.querySelector(".teamMate");
-    /* let staffName = staffInfo.querySelector("h2"); */
+    // let staffName = staffInfo.querySelector("h2"); 
     let staffText = staffInfo.querySelector("p");
 
     console.log(staffPick.id);
 
     dataDisplay.appendChild(staffPick);
-    /* dataDisplay.appendChild(staffName); */
+    // dataDisplay.appendChild(staffName); 
     dataDisplay.appendChild(staffText);
 
     console.log(staffText);
@@ -31,4 +32,9 @@
 
     }
     coworkers.forEach(coworker => coworker.addEventListener("click", selectStaff));
+
+    // Profile Display END
+    //Video Controls START
+
+    //Video Controls END
 })();
