@@ -2,8 +2,10 @@
 .hidden {
     display: none;
 }
-
-.portrait, .logo {
+.logo {
+    height: 300px;
+}
+.portrait {
     height: 150px;
 }
 /* INDEX START */
