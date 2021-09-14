@@ -1,40 +1,43 @@
-/* GENERAL STYLING */
+* {
+  border: none;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+
 .hidden {
-    display: none;
+  display: none;
 }
+
 .logo {
-    height: 300px;
+  height: 300px;
 }
+
 .portrait {
-    height: 150px;
+  height: 150px;
 }
-/* INDEX START */
 
-/* INDEX END */
-
-/* FEATURED START */
-
-/* FEATURED END */
-
-
-/* PORTFOLIO START */
-
-/* PORTFOLIO END */
-
-/* ABOUT PAGE START*/
 .aboutBanner {
-    height: 300px;
+  height: 300px;
 }
-.teamInfo {
-    display: flex;
-    flex-direction: row;
-}
-.dataDisplay {
-    width: 500px;
-    margin: auto;
 
+.teamInfo {
+  display: flex;
+  flex-direction: row;
 }
+
+.dataDisplay {
+  width: 500px;
+  margin: auto;
+}
+
 .staffMember {
-    margin: 15px;
+  margin: 15px;
 }
-/* ABOUT PAGE END */
+
+/*# sourceMappingURL=main.css.map */
