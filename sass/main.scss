@@ -1,0 +1,14 @@
+//quick reset
+* {
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import "modules/_mediaqueries";
+@import "modules/_nav";
+@import "modules/_index";
+@import "modules/_about";
+@import "modules/_contact";
+@import "modules/featured";
+@import "modules/_portfolio";
