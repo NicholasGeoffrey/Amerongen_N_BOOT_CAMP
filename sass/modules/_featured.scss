@@ -1,1 +1,15 @@
 //video controls
+
+figure {
+
+}
+.controls {
+    width: 100%;
+    display: block;
+}
+#video-controls {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
