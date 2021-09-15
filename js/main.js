@@ -34,7 +34,4 @@
     coworkers.forEach(coworker => coworker.addEventListener("click", selectStaff));
 
     // Profile Display END
-    //Video Controls START
-
-    //Video Controls END
 })();
