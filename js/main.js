@@ -8,7 +8,7 @@
         "Nicholas Amerongen is a cook renowned for his mastery of preparing eggs and onions. He values having a wide variety of skills and thus has come to the world of design & development to master cooking up code as quality as his breakfast.",
         "Hello there! I'm Irene. I'm in my second year of Interactive media design at Fanshawe College. I like cats, coffee and long road trips.",
         "Hi! My name is Emily, I am 21 years old and in my second year of the Interactive Media Design program at Fanshawe College. Outside of school, I love playing the piano, cooking, and being outdoors. After school I hope to have a successful career in event coordination and design",
-        "Hi my name is Jackson, I am 20 years old, I am in my second year of the interactive media design program at Fanshawe  "
+        "Hi my name is Jackson, I am 20 years old, I am in my second year of the interactive media design program at Fanshawe, I love collecting vintage t-shirts and creating art"
     ];
 
     function selectStaff() {
