@@ -6,7 +6,7 @@
     // this is the array for each members information
     const teamBio = [
         "Nicholas Amerongen is a cook renowned for his mastery of preparing eggs and onions. He values having a wide variety of skills and thus has come to the world of design & development to master cooking up code as quality as his breakfast.",
-        "This is the info about Irene",
+        "Hello there! I'm Irene. I'm in my second year of Interactive media design at Fanshawe College. I like cats, coffee and long road trips.",
         "This is the info about Emily",
         "Hi my name is Jackson, I am 20 years old, I am in my second year of the interactive media design program at Fanshawe  "
     ];
