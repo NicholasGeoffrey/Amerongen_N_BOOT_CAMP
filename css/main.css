@@ -26,18 +26,20 @@ body {
   background-color: #E5EED9;
   border-radius: 20px;
 }
-
-.mainNav ul
-{
- display: flex;
- flex-direction: row;
- justify-content: flex-end; 
+.desktopNav {
+  height: fit-content;
 }
 
-.mainNav ul li {
+.mainNav ul  {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; 
   margin-left: 10px;
   margin-left: 20px;
   text-decoration: none;
+  padding: 15px;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .hidden {
@@ -46,12 +48,23 @@ body {
 
 .logo {
   height: 300px;
+ position: relative;
+  margin-top: 0px;
+}
+.homeTitle {
+  font-size: 70px;
 }
 
+.homeLine {
+  font-style: italic;
+  font-size: 45px;
+}
 .portrait {
   height: 150px;
 }
-
+.featuredHeadline {
+  font-size: 50px;
+}
 .aboutBanner {
   height: 300px;
 }
@@ -69,7 +82,15 @@ body {
 .staffMember {
   margin: 15px;
 }
-
+#playpause {
+  font-weight: bolder;
+  font-size: 50px;
+}
+.blurb {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom:20px;
+}
 /*# sourceMappingURL=main.css.map */
 
 /* contact page */
